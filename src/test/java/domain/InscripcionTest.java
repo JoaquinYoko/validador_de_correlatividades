@@ -5,7 +5,7 @@ import org.junit.Test;
 import domain.Materia;
 
 public class InscripcionTest {
-
+//
     @Test
     public void alumnoPuedeInscribirseAPdpSiAproboAyed(){
 
